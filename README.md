@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a computer science graduate specialized in AI ML.
+Data-oriented machine learning engineer with 1+ yrs of experience in edge neural network models and Edge MLOps.
 
 
 ## 🌐 Socials:
